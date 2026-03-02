@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あの日のファンファーレ",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-03-02T14:48:13.488231Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの日のファンファーレ",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_あの日のファンファーレ_FES☆TIVE.txt"
+    }
+  ]
+}
